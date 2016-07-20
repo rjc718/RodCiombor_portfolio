@@ -1,0 +1,117 @@
+/*--------------------------------Global default styling-----------------------------*/
+
+body{
+    background-color: #E0EEEE;
+}
+
+#header{
+    background-color: #70DBDB;
+    color: white;
+    min-height: 175px;
+   /* margin-top: -20px;
+    margin-bottom: 0px;*/
+    padding-top: 10px;
+}
+
+#footer{
+    /*background-color: #e6e6e6;*/
+    color: black;
+    min-height: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+  
+#wrapper{
+    background-color: white;
+    /*
+    margin-top: 20px;
+    margin-bottom: 20px;
+    */
+    } 
+        
+.content-col{
+ 
+   max-height: 500px;
+   overflow: auto;
+}
+        
+.container{
+    border: 1px solid black;
+    max-width: 950px;      
+}
+
+/*------------------------------------Page specific styling-------------------------*/
+#template1 #wrapper{
+    margin-top: -20px;
+}
+
+#template1 #footer{
+    background-color: #e6e6e6;
+}
+
+#template2 .navbar-inverse{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#template2 #wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#template2 #footer{
+    background-color: #e6e6e6;
+}
+
+#template3 .navbar-inverse{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#template3 #wrapper{
+    margin-top: 20px;
+}
+
+#template4 #wrapper{
+    margin-bottom: 20px;
+}
+
+#template4 #footer{
+    background-color: #e6e6e6;
+}
+
+
+/*-------------------------------------Media queries--------------------------------*/
+
+@media screen and (max-width: 1350px) {}
+
+@media screen and (max-width: 1024px) {}
+
+@media screen and (max-width: 960px) {}
+
+@media screen and (max-width: 767px) {
+    
+     #template1 #footer{
+        margin-bottom: -10px;
+    }
+    
+    /*
+    #template4 #wrapper{
+        margin-top: -20px;
+        margin-bottom: -20px;
+    }
+    
+    #template5 #wrapper{
+        margin-top: -20px;
+    }
+    */
+}
+
+@media screen and (max-width: 680px) {}
+
+@media screen and (max-width: 480px) {}
+
+@media screen and (max-width: 400px) {}
+
+@media screen and (max-width: 320px) {}

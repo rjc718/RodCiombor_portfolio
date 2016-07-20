@@ -1,0 +1,80 @@
+.bullet_term {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333;
+}.intro_text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #030;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #030;
+	font-weight: bold;
+}
+
+
+
+.body_text {	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar {	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+
+.small_text {	font-size: small;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color: #FFF;
+}
+.img_left_float {
+	float: left;
+	border: thin solid #333;
+	margin-right: 10px;
+}
+.img_right_float {
+	float: right;
+	border: thin solid #333;
+	margin-left: 10px;
+}
+img {
+	vertical-align: bottom;
+}
+table {
+	width: 165px;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+.tip_table {
+	width: 600px;
+	border: thin solid #000;
+	margin-left: 50px;
+}
+.telephone {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	text-align: center;
+}

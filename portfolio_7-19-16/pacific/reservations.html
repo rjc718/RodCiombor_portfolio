@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+    <title>Pacific Trails Resort :: Reservations</title>
+    <meta charset = "utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href= "pacific.css" rel="stylesheet" type="text/css" />
+     <link href="pacificmobile.css" rel="stylesheet" type="text/css"
+          media="only screen and (max-width: 480px)" />
+      
+</head>
+
+<body>
+    <div id="wrapper">
+<h1>Pacific Trails Resort</h1>
+<div id="nav">
+    <ul>
+    <li><a href= "index.html">Home</a></li>
+    <li><a href= "yurts.html">Yurts</a></li>
+    <li><a href= "activities.html">Activities</a></li>
+    <li><a href= "reservations.html">Reservations</a></li>
+    </ul>
+</div><!--end nav-->
+
+<div id="content">
+  <h2>Reservations at Pacific Trails</h2>
+  <h3>Contact Us</h3>
+  <form method="post" action="http://webdevbasics.net/scripts/pacific.php">
+    <label for="myFName">First Name:</label>
+    <input type="text" name="myFName" />
+    <label for="myLName">Last Name:</label>
+    <input type="text" name="myLName" />
+    <label for="myEmail">E-Mail:</label>
+    <input type="text" name="myEmail" />
+    <label for="myPhone">Phone:</label>
+    <input type="text" name="myPhone" />
+    <label for="myComments">Comments:</label>
+    <input type="textarea" name="myComments" rows="2" cols="20" />
+    <input type="submit" value="Submit" id="mySubmit" /> 
+  </form>
+ 
+  <div class="clear">
+    <br />
+    Pacific Trails Resort <br />
+    12010 Pacific Trails Road <br />
+    Zephyr, CA 95555 <br />
+  <br />
+    <a id="mobile" href="tel:888-555-5555">888-555-5555</a>
+    <span id="desktop">888-555-5555</span>
+    
+  </div> <!--end clear-->
+
+
+
+<div id="footer">
+    Copyright &#xA9; 2013 Pacific Trails Resort<br />
+    <a href="mailto:rodciombor@ciombor.com">rodciombor@ciombor.com</a>
+</div><!--end footer-->
+</div><!--end content-->
+
+</div> <!--end wrapper-->
+</body>
+</html>
