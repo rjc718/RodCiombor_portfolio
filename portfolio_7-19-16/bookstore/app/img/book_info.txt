@@ -1,0 +1,5 @@
+Angular Novice to Ninja		$15.99		Sitepoint Publishing
+Restful				$19.48		O'Reilley MEdia
+Murach's PHP			$43.60		Murach's Books
+Java				$65.10		Pearson
+HTML & CSS			$15.99		John Wiley and Sons
