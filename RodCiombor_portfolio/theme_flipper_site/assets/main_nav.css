@@ -1,0 +1,109 @@
+/*Updated 2/2/2016*/
+
+
+#mainNavBar{
+        /*Moves menu items underneath*/
+        clear: both;
+        border: medium none;
+        /*text-align: center; Add to center, 1 of 4 rules*/
+    }
+    
+    /*Centers menu with text-align center above*/
+    /*
+    .navbar-nav{float: none;} 
+    .navbar-nav > li {float: none;}
+    .nav > li {display: inline-block;}*/
+    
+    /*.navbar-inverse .navbar-nav > li > a{padding-left: x; padding-right: x;}  Use to increase width of menu links */
+    
+    
+    .navbar-toggle{
+        /*Styles toggle button on mobile*/
+        background-color: #cc3232;
+        width: 30%;
+        border: medium none;
+        border-radius: 0px;
+        margin-left: -15px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 15px 10px;
+        
+    }
+    
+    .navbar-inverse{
+        border-radius: 0px;
+        border: medium none;
+        background-image: none;
+        margin-top: -10px; /*Eliminates Chrome gap*/
+        
+        /*background-color: purple;  Will change color of navbar*/
+    
+    }
+    
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a{
+        color: black; /*Changes text color of submenu items, both full and mobils*/
+    }
+    .navbar-inverse .navbar-nav > li > a{color: white;  /*Changes text color of menu items*/}
+    
+    .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+        /*background-color: #222;*/
+        background-color: inherit;
+    }
+    
+    .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a{
+        background-image: none;
+        box-shadow: none;
+        }
+    
+    
+    @media screen and (max-width: 767px) {
+        #mainNavBar{
+            background-color: #f0f0f0;
+        }
+        
+        .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+                background-color: red;
+              
+        
+        }
+        
+        .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a{
+                background-image: none;
+                /*background-repeat and box-shadow*/   
+        }
+        
+
+        .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+                /*background-color: purple;
+                color: #fff;*/
+                background-color: inherit;
+                color: inherit;
+        }
+        
+        .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a{
+                text-shadow: none;
+        }
+        
+        .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover{
+             /*color: black;*/
+             color: inherit;
+        }
+        
+        .navbar-inverse .navbar-nav > li > a{color: black; /*Changes text color of mobile menu items*/}
+           
+        .nav > li > a{border-bottom: 1px solid #dfdfdf; /*Makes mobile menu items look like buttons...extend all the way....need to get rid of last border?*/}
+        
+        .navbar-nav{margin: 0 -15px;  /*Eliminates top and bottom spacing of menu items in mobile*/}
+        
+        .dropdown-menu > li{border-bottom: 1px solid #a3a3a3;
+                            background-color: #d3d3d3;    
+                        /*Makes mobile sub menu items look like buttons*/}
+        
+        .dropdown-menu{padding: 0;  /*Eliminates top and bottom spacing of submenu items in mobile*/}}
+        
+        /*Fixes centering menu...display-block messed up for some reason*/
+        /*
+        #mainNavBar{text-align: left;}
+        .navbar-nav{float: initial;}
+        .navbar-nav > li {float: initial;}
+        .nav > li {display: block;}*/

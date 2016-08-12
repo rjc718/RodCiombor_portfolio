@@ -1,0 +1,88 @@
+body{background-color: #FFFFFF;
+     color: #000000;
+     font-family: "Verdana", Arial, sans-serif;
+     background-image: none;
+     margin: 0;
+     padding: 0;}
+    
+h1 {background-color: #000033;
+     color: #FFFFFF;
+     line-height: 200%;
+     font-family: "Georgia", serif;
+     background-image: url("sunset.jpg");
+     background-origin: content-box;
+     background-repeat: no-repeat;
+     background-position: right top;
+     padding-left: 0.3em;
+     height: 70px;
+     margin: 0;
+     font-size: 1.5em;}
+
+#nav{font-weight: bold;
+      padding:0;
+      margin:0;
+      float: none;
+      width: 100%;}
+#nav a {text-decoration: none;
+    display: block;
+    padding:0.2em; 
+    font-size: 1.3em;
+    border-bottom: #330000 1px solid;
+}
+
+#nav a:link {color: #000033;}
+#nav a:visited {color: #344873;}
+#nav a:hover {color: #FFFFFF;}
+
+
+h2{color: #3399CC;
+    font-family: "Georgia", serif; }
+    
+dt{color: #000033; }
+
+.resort{color: #000033;
+        font-size: 1.2em; }
+
+#footer {font-size: .70em;
+            font-style: italic;
+            text-align: center;
+            padding: 0;
+            margin: 0;}
+
+#wrapper{width: 100%;
+            margin-right: 0;
+            margin-left: 0;
+            background-color: #90C7E3;
+            min-width: 0;
+            -webkit-box-shadow: 5px 5px 5px #828282;
+            -moz-box-shadow: 5px 5px  5px #828282;
+            box-shadow: 5px 5px 5px #828282;}
+
+h3{color: #000033;}
+
+#content{background-color: #ffffff;
+        margin: 0;
+        padding-left: 0.4em;
+        padding-right: 0;
+        padding-bottom: 0;
+        padding-top: 0.1em;
+        font-size: 90%;}
+
+#nav ul {list-style-type: none;
+          margin: 0;
+          padding: 0;}
+          
+#content img {float: none;
+              padding-right: 0;
+              display: none;
+              }
+#content ul {list-style-position: outside;}
+.clear{clear: left;
+        padding-top: 0;}
+
+#mobile {display: inline;}
+
+#desktop {display: none;}
+
+
+            

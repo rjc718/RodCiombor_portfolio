@@ -1,0 +1,23 @@
+Both margin bottoms originally -5px
+
+.nav > li:last-child(border-bottom: medium none; margin-bottom: -8px;}
+.nav > li  {border-bottom: 1px solid #dfdfdf;}
+.nav > li:first-child{margin-top: -10px;}
+.dropdown-menu li{padding-bottom: 5px; padding-top: 5px;}
+.navbar-toggle{
+	background-color: purple;
+	border: medium none;
+	border-radius: 0px;
+	color: white;
+	margin: -1px 0 0 -20px;
+	padding: 15px 0;
+	position: left;
+	width: 30%;
+
+}
+
+#mainNavBar{}background-color: gray; border: none;}
+
+.navbar-default{border: none;}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{background-color: yellow; OR remove it}
