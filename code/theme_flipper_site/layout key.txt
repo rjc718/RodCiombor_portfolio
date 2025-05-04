@@ -1,6 +1,0 @@
-Layouts:
-
-n = Navigation is in wrapper
-f = Footer is in wrapper
-nf = Fluid Navigation
-ff = Fluid Footer
