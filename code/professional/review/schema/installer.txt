@@ -1,0 +1,56 @@
+{
+    "id": "https://pedstores.com/schemas/products/reviews/installer",
+    "type": "array",
+    "properties": {
+        "installer_selected": {
+            "type": "integer",
+            "minimum": 0
+        },
+        "installer_other": {
+            "anyOf": [
+                {
+                    "type": "string",
+                    "pattern": "^[ -~]+$"
+                },
+                {
+                    "type": "string",
+                    "maxLength": 0
+                }
+            ]
+        },
+        "installer_communication": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+        },
+        "installer_work": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+        },
+        "installer_price": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+        },
+        "installer_comments": {
+            "anyOf": [
+                {
+                    "type": "string",
+                    "pattern": "^[ -~]+$"
+                },
+                {
+                    "type": "string",
+                    "maxLength": 0
+                }
+            ]
+        },
+        "installer_contact": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 2
+        }
+    },
+    "required": ["installer_communication", "installer_work", "installer_price", "installer_selected"],
+    "additionalProperties": false
+}

@@ -1,0 +1,38 @@
+{
+    "id": "https://pedstores.com/schemas/products/reviews/modal",
+    "type": "array",
+    "properties": {
+        "action": {
+            "type": "string",
+            "enum": ["loadmodalview", "process", "uploadImage"]
+        },
+        "r_product": {
+            "type": "integer",
+            "minimum": 0,
+            "exclusiveMinimum": true
+        },
+        "storesId": {
+            "type": "integer",
+            "enum": [1, 6, 7, 9, 10, 13, 15, 16]
+        },
+        "viewId": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 3
+        },
+        "savedData": {
+            "anyOf": [
+                {
+                    "type": "string",
+                    "pattern": "^[ -~]+$"
+                },
+                {
+                    "type": "string",
+                    "maxLength": 0
+                }
+            ]
+        }
+    },
+    "required": ["action", "r_product", "storesId", "viewId", "savedData"],
+    "additionalProperties": false
+}
