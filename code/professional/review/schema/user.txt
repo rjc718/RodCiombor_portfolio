@@ -1,0 +1,21 @@
+{
+    "id": "https://pedstores.com/schemas/products/reviews/user",
+    "type": "array",
+    "properties": {
+        "oId": {
+            "type": "integer"
+        },
+        "eId": {
+            "description": "Hashed emails from links in legacy review emails",
+            "type": "string",
+            "pattern": "^([A-Fa-f0-9]{64}|)$"
+        },
+        "incentives": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1
+        }
+    },
+    "required": ["oId", "eId"],
+    "additionalProperties": false
+}

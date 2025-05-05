@@ -1,0 +1,48 @@
+{
+    "id": "https://pedstores.com/schemas/products/reviews/photo",
+    "type": "array",
+    "properties": {
+        "image_temp": {
+            "description": "String of photo info delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": ["string", "null"],
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "image_name": {
+            "description": "String of photo info delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": ["string", "null"],
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "r_image": {
+            "description": "String of photo info delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": ["string", "null"],
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "r_cap": {
+            "anyOf": [
+                {
+                    "type": "string",
+                    "pattern": "^[ -~]+$"
+                },
+                {
+                    "type": "string",
+                    "maxLength": 0
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "image_r_name": {
+            "description": "String of photo info delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": ["string", "null"],
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "image_t_name": {
+            "description": "String of photo info delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": ["string", "null"],
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        }
+    },
+    "required": ["image_temp", "image_name", "r_image", "image_r_name", "image_t_name"],
+    "additionalProperties": false
+}

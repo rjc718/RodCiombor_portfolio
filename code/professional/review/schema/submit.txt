@@ -1,0 +1,86 @@
+{
+    "id": "https://pedstores.com/schemas/products/reviews/submit",
+    "type": "array",
+    "properties": {
+        "r_feat": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+        },
+        "r_qual": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+        },
+        "r_per": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+        },
+        "r_value": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+        },
+        "r_overall": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+        },
+        "r_rec": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 2
+        },
+        "r_pros": {
+            "description": "String of Pros checkboxes delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": "string",
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "r_cons": {
+            "description": "String of Cons checkboxes delineated by vertical pipes.  Pattern matches 0 - 4 substrings of alphanumeric characters, spaces and punctuation separated by vertical pipes",
+            "type": "string",
+            "pattern": "^(([a-zA-Z0-9\\s\\p{P}]+\\|){0,3}[a-zA-Z0-9\\s\\p{P}]*)?$"
+        },
+        "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50
+        },
+        "story_data": {
+            "type": "string",
+            "minLength": 1
+        },
+        "r_video": {
+            "type": "string"
+        },
+        "video_caption": {
+            "type": "string"
+        },
+        "display_name": {
+            "type": "string",
+            "minLength": 1
+        },
+        "email": {
+            "type": "string",
+            "format": "email",
+            "minLength": 1
+        },
+        "state": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 200
+        },
+        "review_token": {
+            "type": "string",
+            "format": "uuid"
+        },
+        "subscribe": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1
+        }
+    },
+    "required": ["r_feat", "r_qual", "r_per", "r_value", "r_overall", "title", "story_data", "display_name", "email", "review_token"],
+    "additionalProperties": false
+}

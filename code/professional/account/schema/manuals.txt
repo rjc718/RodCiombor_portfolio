@@ -1,0 +1,32 @@
+{
+    "id": "https://pedstores.com/schemas/commands/requests/accounts/orders/manuals",
+    "type": "object",
+    "properties": {
+        "action": {
+            "type": "string",
+            "pattern": "^account:manuals$"
+        },
+        "csrf": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9_\\.\\-]+$"
+        },
+        "url": {
+            "type": "string",
+            "pattern": "^/customers/account/details/\\d+$"
+        },
+        "payload": {
+            "type": "object",
+            "properties": {
+                "productId": {
+                    "type": "integer"
+                },
+                "orderStoreId": {
+                    "type": "integer"
+                }
+            },
+            "required": ["productId", "orderStoreId"]
+        }
+    },
+    "required": ["action", "csrf", "payload"],
+    "additionalProperties": false
+}
