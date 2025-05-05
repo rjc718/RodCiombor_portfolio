@@ -1,0 +1,1 @@
+<script type="<?= (empty($type) ? 'text/javascript' : $type) ?>" src="<?= $src ?>"<?= ($async ? ' async' : '') ?><?= ($defer ? ' defer' : '') ?><?= ($params ? ' ' . $params : '') ?>></script>

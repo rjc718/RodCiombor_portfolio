@@ -1,0 +1,89 @@
+@import '../helpers';
+@import '../components/global';
+
+html, body, div, span, object, iframe, 
+h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, 
+small, strong, sub, sup, var, b, i, dl, dt, dd, 
+ol, ul, li, fieldset, form, label,
+table, caption, tbody, tfoot, thead, tr, th, td, 
+article, aside, canvas, details, figcaption, figure, footer, header, 
+hgroup, menu, nav, section, summary, time, mark, audio, video
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+html, body{
+    font-family: $font;
+    font-size: $fontSize;
+    line-height: $lineHeight;
+    height: 100%;
+    color: $defaultText;
+    background: #fff;
+}
+
+h1{
+    font-size: 48px;
+    line-height: 1.15;
+
+    @media only screen and (max-width: $md){
+        font-size: 40px;
+    }
+}
+h2{font-size: 28px;}
+h3{font-size: 24px;}
+h4{font-size: 20px;}
+h5{font-size: 18px;}
+h6{font-size: 16px;}
+
+a{
+    color: $themeLightBlue;
+    text-decoration: none;
+    cursor: pointer;
+    &:hover{
+        text-decoration: underline;
+    }
+}
+ol, ul{    
+    list-style-position: outside;
+}
+
+#pageWrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+#mainContent{
+    border-top: none;
+    display: flex;
+    flex: 1;
+}
+.listPage, .articlePage, .homePage{
+    flex-direction: column;
+    flex: 1;
+}
+.content-box{
+    margin: auto;
+    max-width: 1450px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 25px;
+    position: relative;
+}
+#view{
+    .content-box{
+        @media only screen and (max-width: $md){
+            padding: 0;
+        }
+    }
+}
+.content-row{
+    overflow: hidden;
+    line-height: 1.5;
+}
+    

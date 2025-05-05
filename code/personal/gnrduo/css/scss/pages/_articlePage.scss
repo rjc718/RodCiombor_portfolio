@@ -1,0 +1,84 @@
+.articlePage{
+
+    .content-box{
+        max-width: 1000px;
+
+        #mainImgContainer{
+            max-height: 450px;
+    
+            @media only screen and (max-width: $sm){
+                max-height: 250px;
+            }
+        
+            img{
+                width: 100%;
+                max-height: 450px;
+
+                @media only screen and (max-width: $sm){
+                    max-height: 250px;
+                }
+            }
+        }
+
+        #view{
+            min-height: 350px;
+            font-size: 20px;
+            line-height: 37px;
+            margin-bottom: 40px;
+            word-wrap: break-word;
+
+            .image-gallery-container{
+                .left{
+                    float: left;
+                    width: 60%;
+            
+                    &.fill-vertical{
+                        padding-top: 40px;
+                        @media only screen and (max-width: $xl){
+                            padding-top: 0;
+                        }
+                    }
+
+                    @media only screen and (max-width: $xl){
+                        width: 100%;
+                        float: none;
+                    }
+                }
+                .right{
+                    float: right;
+                    width: 35%;
+                    padding-top: 20px;
+                    min-height: 320px;
+                    margin-left: auto;
+                    margin-bottom: 20px;
+
+                    @media only screen and (max-width: $xl){
+                        width: 300px;
+                        min-height: 310px;
+                        padding-top: 0;
+                        padding-bottom: 10px;
+                        float: none;
+                        margin-left: auto;
+                        margin-right: auto;
+                    }
+                    @media only screen and (max-width: $xl){
+                        min-height: 300px;
+                        padding-bottom: 0;
+                    }
+                }
+            }
+
+            p{
+                margin: 0 0 1em 0;
+            }
+
+            .social_links{
+                a{
+                    &:hover{
+                        text-decoration: none
+                    }
+                }
+            }    
+        }
+    }
+}

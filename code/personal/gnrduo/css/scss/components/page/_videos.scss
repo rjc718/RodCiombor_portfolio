@@ -1,0 +1,156 @@
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.video-gallery{
+    
+  padding-top: 10px;
+    @media only screen and (max-width: $md){
+        padding-top: 0;
+    }
+
+    .slideshow-container {
+        max-width: 560px;
+        position: relative;
+        margin: auto;
+      }
+      
+      /* Hide the images by default */
+      .mySlides {
+        display: none;
+      }
+      
+      /* Next & previous buttons */
+      .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 38%;
+        width: auto;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 48px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+        margin-top: -15px;
+
+        @media only screen and (max-width: $sm){
+            font-size: 40px;
+            top: 35%;
+        }
+      }
+      
+      /* Position the "next button" to the right */
+      .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+      }
+      
+      /* On hover, add a black background color with a little bit see-through */
+      .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+        text-decoration: none;
+      }
+      
+      /* Caption text */
+      .text {
+        color: #f2f2f2;
+        font-size: 15px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+      }
+      
+      /* Number text (1/3 etc) */
+      .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+
+        @media only screen and (max-width: $sm){
+          padding: 0 12px;
+        }
+      }
+
+      .play{
+        background-image: url('../assets/img/icons/youtube_social_icon_red.png');
+        height: 44px;
+        width: 65px;
+        left: 45%;
+        top: 38%;
+        background-repeat: no-repeat;
+        position: absolute;
+
+        @media only screen and (max-width: $sm){
+            left: 40%;
+            top: 35%;
+        }
+      }
+      
+      .dot {
+        cursor: pointer;
+        height: 20px;
+        width: 20px;
+        margin: 0 5px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
+      
+      .active, .dot:hover {
+        background-color: #717171;
+      }
+      
+      /* Fading animation */
+      .fade {
+        animation-name: fade;
+        animation-duration: 1.5s;
+      }
+      
+      @keyframes fade {
+        from {opacity: .4}
+        to {opacity: 1}
+      }
+      
+}
+
+.clickLoadVideo{
+    max-width: 768px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    cursor: pointer;
+
+    img{
+        width: 100%;
+        height: 425px;
+
+        @media only screen and (max-width: $md){
+          max-height: 375px;
+        }
+        @media only screen and (max-width: $sm){
+          max-height: 275px;
+        }
+    }
+}
+.clickLoadVideoTitle{
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    
+    @media only screen and (max-width: $md){
+        font-size: 28px;
+        margin-top: 10px;
+    }
+    @media only screen and (max-width: $sm){
+        font-size: 24px;
+    }
+}

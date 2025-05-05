@@ -1,0 +1,52 @@
+button{
+    background: transparent;
+    border: none;
+}
+.cta-button{
+	text-align: center;
+	background-color: $themeDarkBlue;
+	cursor: pointer;
+	padding: 20px;
+	width: 100%;
+	max-width: 575px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+	-moz-box-shadow: 3px 13px 18px -9px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 3px 13px 18px -9px rgba(0,0,0,0.3);
+	box-shadow: 3px 13px 18px -9px rgba(0,0,0,0.3);
+
+    &.small{
+        max-width: 200px;
+        padding: 10px;
+        display: inline-block;
+        margin-right: 20px;
+
+        @media only screen and (max-width: $md){
+            max-width: initial;
+            margin-right: 0;
+            margin-bottom: 20px;
+        }
+
+        a{
+            font-size: 16px;
+            font-weight: normal;
+        }
+    }
+
+    &:hover{
+        background-color: $themeBlue;
+    }
+
+    a{
+        font-weight: bold;
+        color: #fff;
+        font-size: 28px;
+        line-height: 1.5;
+        display: block;
+
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}

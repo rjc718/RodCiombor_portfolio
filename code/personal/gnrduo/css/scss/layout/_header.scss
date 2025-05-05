@@ -1,0 +1,27 @@
+#header{
+    border-bottom: 2px solid $lightGrayText;
+    @media only screen and (min-width: $md){
+        border-bottom: 8px solid $themeGold3;
+        padding: 5px 0;
+    }
+
+    .header-left{
+        float: none;
+        text-align: center;
+        padding: 10px 0 5px 0;
+
+        @media only screen and (min-width: $md){
+            float: left;
+        }
+
+        img{
+            width: 140px;
+            height: 90px;
+
+            @media only screen and (min-width: $md){
+                width: 175px;
+                height: 112px;
+            }
+        }
+    }
+}
