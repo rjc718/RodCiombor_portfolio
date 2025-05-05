@@ -1,0 +1,1 @@
+<video width="<?= $width ?>" height="<?= $height ?>" controls><source src="<?= $originalSrc ?>" type="video/mp4"></video>

@@ -1,0 +1,408 @@
+@import 'variables';
+
+.font-weight-normal{
+    font-weight: initial;
+}
+.font-weight-bold{
+    font-weight: bold;
+}
+.font-weight-bolder{
+    font-weight: bolder;
+}
+.font-weight-lighter{
+    font-weight: lighter;
+}
+.italic{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
+.center{
+    text-align: center;
+}
+.right-align{
+    text-align: right;
+}
+.left-align{
+    text-align: left;
+}
+.nowrap{
+    white-space: nowrap;
+}
+.hide{
+    display: none;
+}
+.display-block{
+    display: block
+}
+.display-flex{
+    display: flex
+}
+.flex-1{
+    flex: 1;
+}
+.flex-50{
+    flex-basis: 50%;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-row{
+    flex-direction: row;
+}
+.border-none{
+    border: none;
+}
+.full-width{
+    width: 100%;
+}
+.half-width{
+    width: 50%;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.float-none{
+    float: none;
+}
+.center-object{
+    margin-left: auto;
+    margin-right: auto;
+}
+.gold-text{
+    color: $themeGold3;
+}
+.full-width-mobile{
+    @media only screen and (max-width: $md){
+        width: 100%;
+    }
+}
+.float-none-mobile{
+    @media only screen and (max-width: $md){
+        float: none;
+    }
+}
+
+.spcr{
+    clear: both;
+}
+.pos-relative{
+    position: relative;
+}
+.pos-absolute{
+    position: absolute;
+}
+.link-style{
+    color: $themeLightBlue;
+    cursor: pointer;
+    &:hover{
+        text-decoration: underline;
+    }
+    &.active{
+        text-decoration: underline;
+    }
+}
+
+@for $i from 1 through 30{
+    $size: $i * 5px;
+
+    .fw-#{$i * 5}{
+        width: $size;
+    }
+    .fh-#{$i * 5}{
+        height: $size;
+    }
+}
+
+@for $i from 1 through 20{
+    $size: $i * 5%;
+
+    .fluid-#{$i * 5}{
+        width: $size;
+    }
+}
+
+@for $i from 0 through 30{
+    $margin: $i * 2px;
+
+    .m-#{$i * 2}{
+        margin: $margin;
+    }
+    .ms-#{$i * 2}{
+        margin-left: $margin;
+    }
+    .me-#{$i * 2}{
+        margin-right: $margin;
+    }
+    .mb-#{$i * 2}{
+        margin-bottom: $margin;
+    }
+    .mt-#{$i * 2}{
+        margin-top: $margin;
+    }
+    .mx-#{$i * 2}{
+        margin-right: $margin;
+        margin-left: $margin;
+    }
+    .my-#{$i * 2}{
+        margin-top: $margin;
+        margin-bottom: $margin;
+    }
+
+    .m-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin: $margin;
+        }
+    }
+    .ms-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-left: $margin;
+        }
+    }
+    .me-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-right: $margin;
+        }
+    }
+    .mb-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-bottom: $margin;
+        }
+    }
+    .mt-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-top: $margin;
+        }
+    }
+    .mx-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-right: $margin;
+            margin-left: $margin;
+        }
+    }
+    .my-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            margin-top: $margin;
+            margin-bottom: $margin;
+        }
+    }
+
+    .m-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin: $margin;
+        }
+    }
+    .ms-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-left: $margin;
+        }
+    }
+    .me-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-right: $margin;
+        }
+    }
+    .mb-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-bottom: $margin;
+        }
+    }
+    .mt-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-top: $margin;
+        }
+    }
+    .mx-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-right: $margin;
+            margin-left: $margin;
+        }
+    }
+    .my-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            margin-top: $margin;
+            margin-bottom: $margin;
+        }
+    }
+}
+
+.m-5{
+    margin: 5px;
+}
+.ms-5{
+    margin-left: 5px;
+}
+.me-5{
+    margin-right: 5px;
+}
+.mb-5{
+    margin-bottom: 5px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.mx-5{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.my-5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+@for $i from 0 through 30{
+    $padding: $i * 2px;
+
+    .p-#{$i * 2}{
+        padding: $padding;
+    }
+    .ps-#{$i * 2}{
+        padding-left: $padding;
+    }
+    .pe-#{$i * 2}{
+        padding-right: $padding;
+    }
+    .pb-#{$i * 2}{
+        padding-bottom: $padding;
+    }
+    .pt-#{$i * 2}{
+        padding-top: $padding;
+    }
+    .px-#{$i * 2}{
+        padding-right: $padding;
+        padding-left: $padding;
+    }
+    .py-#{$i * 2}{
+        padding-top: $padding;
+        padding-bottom: $padding;
+    }
+    .p-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding: $padding;
+        }
+    }
+    .ps-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-left: $padding;
+        }
+    }
+    .pe-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-right: $padding;
+        }
+    }
+    .pb-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-bottom: $padding;
+        }
+    }
+    .pt-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-top: $padding;
+        }
+    }
+    .px-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-right: $padding;
+            padding-left: $padding;
+        }
+    }
+    .py-sm-#{$i * 2}{
+        @media only screen and (min-width: $sm){
+            padding-top: $padding;
+            padding-bottom: $padding;
+        }
+    }
+
+    .p-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding: $padding;
+        }
+    }
+    .ps-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-left: $padding;
+        }
+    }
+    .pe-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-right: $padding;
+        }
+    }
+    .pb-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-bottom: $padding;
+        }
+    }
+    .pt-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-top: $padding;
+        }
+    }
+    .px-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-right: $padding;
+            padding-left: $padding;
+        }
+    }
+    .py-md-#{$i * 2}{
+        @media only screen and (min-width: $md){
+            padding-top: $padding;
+            padding-bottom: $padding;
+        }
+    }
+}
+
+.p-5{
+    padding: 5px;
+}
+.ps-5{
+    padding-left: 5px;
+}
+.pe-5{
+    padding-right: 5px;
+}
+.pb-5{
+    padding-bottom: 5px;
+}
+.pt-5{
+    padding-top: 5px;
+}
+.px-5{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.py-5{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+@for $i from 0 through 20{
+    $line-height: $i * 2px;
+
+    .lh-#{$i * 2}{
+        line-height: $line-height;
+    }
+}
+.lh-single{
+    line-height: 1;
+}
+.lh-double{
+    line-height: 2;
+}
+.lh-one-half{
+    line-height: 1.5;
+}
+@for $i from 0 through 20{
+    $font-size: $i * 2px;
+
+    .font-size-#{$i * 2}{
+        font-size: $font-size;
+    }
+}
+
+

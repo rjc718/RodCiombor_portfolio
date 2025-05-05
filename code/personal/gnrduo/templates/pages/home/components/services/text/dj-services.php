@@ -1,0 +1,1 @@
+Our mobile DJ service specializes in providing the perfect vibe and playlist for your event or venue!

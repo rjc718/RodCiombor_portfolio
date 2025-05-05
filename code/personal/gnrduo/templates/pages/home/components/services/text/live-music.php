@@ -1,0 +1,1 @@
+Our acoustic duo specializes in performing well-known acoustic covers from a variety of genres and eras!

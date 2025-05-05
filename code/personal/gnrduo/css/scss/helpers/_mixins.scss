@@ -1,0 +1,95 @@
+@mixin xs{
+    @media (min-width: #{$screen-xs-min}){
+        @content;
+    }
+}
+@mixin sm{
+    @media (min-width: #{$screen-sm-min}){
+        @content;
+    }
+}
+@mixin md{
+    @media (min-width: #{$screen-md-min}){
+        @content;
+    }
+}
+@mixin lg{
+    @media (min-width: #{$screen-lg-min}){
+        @content;
+    }
+}
+@mixin xl{
+    @media (min-width: #{$screen-xl-min}){
+        @content;
+    }
+}
+@mixin xxl{
+    @media (min-width: #{$screen-xxl-min}){
+        @content;
+    }
+}
+@mixin mdMax{
+    @media only screen and (max-width: #{$screen-md-min - 1}), only screen and (max-width: #{$screen-md-min - 1}) and (-webkit-min-device-pixel-ratio: 2){
+        @content;
+    }
+}
+@mixin flexRow{
+    display: flex;
+    flex-direction: row;
+}
+@mixin flexColum{
+    display: flex;
+    flex-direction: column;
+}
+@mixin flexWrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+@mixin flexVerticalAlign{
+    display: flex;
+    align-items: center;
+}
+@mixin imgResponsive{
+    max-width: 100%;
+    height: auto;
+}
+
+@mixin hideMobileFlex{
+    @include mdMax{
+        display: none;
+    }
+    @include md{
+        display: flex;
+    }
+}
+
+@mixin showMobileFlex{
+    @include mdMax{
+        display: flex;
+    }
+    @include md{
+        display: none;
+    }
+}
+
+@mixin hideMobile{
+    @include mdMax{
+        display: none;
+    }
+    @include md{
+        display: block;
+    }
+}
+
+@mixin showMobile{
+    @include mdMax{
+        display: block;
+    }
+    @include md{
+        display: none;
+    }
+}
+@mixin shadowBox{
+    box-shadow: 0 0 6px #00000040;
+    opacity: 1;
+}
