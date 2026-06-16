@@ -1,0 +1,142 @@
+#Option 1:  Creation of Employee Object
+
+Enter your choice: 1
+testing Employee class
+Enter name: Bob Smith
+Enter id: 111
+ERROR! Can't instantiate abstract class Employee without an implementation for abstract method 'yearly_gross_pay'
+
+#Option 2a: Creation of ProductionWorker Object - day shift
+Enter your choice: 2
+testing ProductionWorker class
+Enter name: Bob Smith
+Enter id: 111
+Enter a shift number (1--day or 2--night): 3
+ERROR! Invalid shift number entered (1--day or 2--night)!
+Enter a shift number (1--day or 2--night): dat
+ERROR! Non integer value entered!
+Enter a shift number (1--day or 2--night): 1
+Enter the hourly pay rate: 22.50
+Production Worker Information:
+Bob Smith: IDNUM 111
+working day shift with 22.50 hourly pay rate
+
+  Yearly Gross Pay: 46,800.00
+__str__: Production Worker Information:
+Bob Smith: IDNUM 111
+working day shift with 22.50 hourly pay rate
+
+#Option 2b: Creation of ProductionWorker Object - night shift
+Enter your choice: 2
+testing ProductionWorker class
+Enter name: Larry Smith
+Enter id: 222
+Enter a shift number (1--day or 2--night): 2
+Enter the hourly pay rate: 22.75
+Production Worker Information:
+Larry Smith: IDNUM 222
+working night shift with 22.75 hourly pay rate
+
+  Yearly Gross Pay: 47,320.00
+__str__: Production Worker Information:
+Larry Smith: IDNUM 222
+working night shift with 22.75 hourly pay rate
+
+#Option 3: Creation of ShiftSupervisor object
+Enter your choice: 3
+testing ShiftSupervisor class
+Enter name: John Rodson
+Enter id: 333
+Enter the annual salary: 30,000.00
+ERROR! Non float value entered!
+Enter the annual salary: 30000.00
+Enter the yearly bonus amount: -500
+ERROR! Negative value entered!
+Enter the yearly bonus amount: 500
+John Rodson: IDNUM 333
+supervising with 30,000.00 annual salary and 500.00 yearly bonus
+
+  Yearly Gross Pay: 30,500.00
+__str__: John Rodson: IDNUM 333
+supervising with 30,000.00 annual salary and 500.00 yearly bonus
+
+#Option 4: test of polymorphism function
+Enter your choice: 4
+-->testing polymorphism function
+Passed object is NOT an instance of Employee class hierarchy!
+
+#Option 5: test of class attributes
+Enter your choice: 5
+-->testing Employee class attributes
+hours per week = 40
+weeks per year = 52
+
+#Option 6: test of class doc strings
+Enter your choice: 6
+-->testing class doc strings
+**Employee**
+
+    Employee Abstract Base Class
+    ----------------------------
+    This abstract class represents a generic employee. It defines common
+    attributes and methods that all employee types should have.
+
+    Class Attributes:
+        HRS_PER_WEEK (int): Standard number of working hours per week (default 40).
+        WKS_PER_YEAR (int): Standard number of working weeks per year (default 52).
+
+    Instance Attributes:
+        __name (str): The employee's name (private).
+        __id (str/int): The employee's identification number (private).
+
+    Properties:
+        name: Getter and setter for the employee's name.
+        id: Getter and setter for the employee's ID.
+
+    Methods:
+        yearly_gross_pay(): Abstract method to calculate the employee's yearly gross pay.
+        __str__(): Returns a formatted string representation of the employee's information.
+
+**ProductionWorker**
+
+    ProductionWorker Class
+    ----------------------
+    This class represents a production worker employee. It inherits from
+    the abstract Employee class and adds attributes specific to production
+    workers, such as shift number and hourly pay rate.
+
+    Instance Attributes:
+        __shift_number (int): The worker's shift number (private).
+        __pay_rate (float): The worker's hourly pay rate (private).
+
+    Properties:
+        shift_number: Getter and setter for the worker's shift number.
+        pay_rate: Getter and setter for the worker's hourly pay rate.
+
+    Methods:
+        yearly_gross_pay(): Calculates and returns the yearly gross pay based
+            on the hourly pay rate, standard hours per week, and weeks per year.
+        __str__(): Returns a formatted string representation of the production
+            worker's information, including name, ID, shift number, and pay rate.
+
+**ShiftSupervisor**
+
+    ShiftSupervisor Class
+    --------------------
+    This class represents a shift supervisor employee. It inherits from
+    the abstract Employee class and adds attributes specific to supervisors,
+    such as annual salary and bonus.
+
+    Instance Attributes:
+        __salary (float): The supervisor's annual salary (private).
+        __bonus (float): The supervisor's annual bonus (private).
+
+    Properties:
+        salary: Getter and setter for the supervisor's annual salary.
+        bonus: Getter and setter for the supervisor's annual bonus.
+
+    Methods:
+        yearly_gross_pay(): Calculates and returns the total yearly gross pay
+            by adding salary and bonus.
+        __str__(): Returns a formatted string representation of the supervisor's
+            information, including name, ID, salary, and bonus.

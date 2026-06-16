@@ -1,0 +1,25 @@
+dn: uid=rciombor, dc=example, dc=com
+cn: Rod Ciombor
+sn: Ciombor
+telephoneNumber: 630-853-3194
+
+dn: uid=ckrajniak, dc=example, dc=com
+cn: Chris Krajniak
+sn: Krajniak
+telephoneNumber: 630-743-1677
+
+dn: uid=dnovak, dc=example, dc=com
+cn: Dan Novak
+sn: Novak
+telephoneNumber: 630-779-4740
+
+dn: uid=jtiscareno, dc=example, dc=com
+cn: Joe Tiscareno
+sn: Tiscareno
+telephoneNumber: 630-901-1645
+
+dn: uid=rmikula, dc=example, dc=com
+cn: Robin Mikula
+sn: Mikula
+telephoneNumber: 630-391-8306
+
