@@ -1,0 +1,1319 @@
+There were 1309 passengers on the Titanic.
+Number of Male Passengers: 843
+Number of Female Passengers: 466
+The average age of all passengers was 29.88
+There are 249 passengers under 21 years old.
+Total Passengers Survived: 500, Male 161, Female 339
+Total Passengers Deceased: 809, Male 682, Female 127
+The youngest survivor was Dean, Miss. Elizabeth Gladys M. She was 0.17 years old.
+The oldest survivor was Barkworth, Mr. Algernon Henry W. He was 80.0 years old.
+List of Passengers:
+Allen, Miss. Elisabeth Walton
+Allison, Master. Hudson Trevor
+Allison, Miss. Helen Loraine
+Allison, Mr. Hudson Joshua Crei
+Allison, Mrs. Hudson J C (Bessi
+Anderson, Mr. Harry
+Andrews, Miss. Kornelia Theodos
+Andrews, Mr. Thomas Jr
+Appleton, Mrs. Edward Dale (Cha
+Artagaveytia, Mr. Ramon
+Astor, Col. John Jacob
+Astor, Mrs. John Jacob (Madelei
+Aubart, Mme. Leontine Pauline
+Barber, Miss. Ellen Nellie
+Barkworth, Mr. Algernon Henry W
+Baumann, Mr. John D
+Baxter, Mr. Quigg Edmond
+Baxter, Mrs. James (Helene DeLa
+Bazzani, Miss. Albina
+Beattie, Mr. Thomson
+Beckwith, Mr. Richard Leonard
+Beckwith, Mrs. Richard Leonard
+Behr, Mr. Karl Howell
+Bidois, Miss. Rosalie
+Bird, Miss. Ellen
+Birnbaum, Mr. Jakob
+Bishop, Mr. Dickinson H
+Bishop, Mrs. Dickinson H (Helen
+Bissette, Miss. Amelia
+Bjornstrom-Steffansson, Mr. Mau
+Blackwell, Mr. Stephen Weart
+Blank, Mr. Henry
+Bonnell, Miss. Caroline
+Bonnell, Miss. Elizabeth
+Borebank, Mr. John James
+Bowen, Miss. Grace Scott
+Bowerman, Miss. Elsie Edith
+Bradley, Mr. George (George Ar
+Brady, Mr. John Bertram
+Brandeis, Mr. Emil
+Brewe, Dr. Arthur Jackson
+Brown, Mrs. James Joseph (Marga
+Brown, Mrs. John Murray (Caroli
+Bucknell, Mrs. William Robert (
+Burns, Miss. Elizabeth Margaret
+Butt, Major. Archibald Willingh
+Cairns, Mr. Alexander
+Calderhead, Mr. Edward Penningt
+Candee, Mrs. Edward (Helen Chur
+Cardeza, Mr. Thomas Drake Marti
+Cardeza, Mrs. James Warburton M
+Carlsson, Mr. Frans Olof
+Carrau, Mr. Francisco M
+Carrau, Mr. Jose Pedro
+Carter, Master. William Thornto
+Carter, Miss. Lucile Polk
+Carter, Mr. William Ernest
+Carter, Mrs. William Ernest (Lu
+Case, Mr. Howard Brown
+Cassebeer, Mrs. Henry Arthur Jr
+Cavendish, Mr. Tyrell William
+Cavendish, Mrs. Tyrell William
+Chaffee, Mr. Herbert Fuller
+Chaffee, Mrs. Herbert Fuller (C
+Chambers, Mr. Norman Campbell
+Chambers, Mrs. Norman Campbell
+Chaudanson, Miss. Victorine
+Cherry, Miss. Gladys
+Chevre, Mr. Paul Romaine
+Chibnall, Mrs. (Edith Martha Bo
+Chisholm, Mr. Roderick Robert C
+Clark, Mr. Walter Miller
+Clark, Mrs. Walter Miller (Virg
+Cleaver, Miss. Alice
+Clifford, Mr. George Quincy
+Colley, Mr. Edward Pomeroy
+Compton, Miss. Sara Rebecca
+Compton, Mr. Alexander Taylor J
+Compton, Mrs. Alexander Taylor
+Cornell, Mrs. Robert Clifford (
+Crafton, Mr. John Bertram
+Crosby, Capt. Edward Gifford
+Crosby, Miss. Harriet R
+Crosby, Mrs. Edward Gifford (Ca
+Cumings, Mr. John Bradley
+Cumings, Mrs. John Bradley (Flo
+Daly, Mr. Peter Denis
+Daniel, Mr. Robert Williams
+Daniels, Miss. Sarah
+Davidson, Mr. Thornton
+Davidson, Mrs. Thornton (Orian
+Dick, Mr. Albert Adrian
+Dick, Mrs. Albert Adrian (Vera
+Dodge, Dr. Washington
+Dodge, Master. Washington
+Dodge, Mrs. Washington (Ruth Vi
+Douglas, Mr. Walter Donald
+Douglas, Mrs. Frederick Charles
+Douglas, Mrs. Walter Donald (Ma
+Duff Gordon, Lady. (Lucille Chr
+Duff Gordon, Sir. Cosmo Edmund
+Dulles, Mr. William Crothers
+Earnshaw, Mrs. Boulton (Olive P
+Endres, Miss. Caroline Louise
+Eustis, Miss. Elizabeth Mussey
+Evans, Miss. Edith Corse
+Farthing, Mr. John
+Flegenheim, Mrs. Alfred (Antoin
+Fleming, Miss. Margaret
+Flynn, Mr. John Irwin (Irving
+Foreman, Mr. Benjamin Laventall
+Fortune, Miss. Alice Elizabeth
+Fortune, Miss. Ethel Flora
+Fortune, Miss. Mabel Helen
+Fortune, Mr. Charles Alexander
+Fortune, Mr. Mark
+Fortune, Mrs. Mark (Mary McDoug
+Francatelli, Miss. Laura Mabel
+Franklin, Mr. Thomas Parham
+Frauenthal, Dr. Henry William
+Frauenthal, Mr. Isaac Gerald
+Frauenthal, Mrs. Henry William
+Frolicher, Miss. Hedwig Margari
+Frolicher-Stehli, Mr. Maxmillia
+Frolicher-Stehli, Mrs. Maxmilli
+Fry, Mr. Richard
+Futrelle, Mr. Jacques Heath
+Futrelle, Mrs. Jacques Heath (L
+Gee, Mr. Arthur H
+Geiger, Miss. Amalie
+Gibson, Miss. Dorothy Winifred
+Gibson, Mrs. Leonard (Pauline C
+Giglio, Mr. Victor
+Goldenberg, Mr. Samuel L
+Goldenberg, Mrs. Samuel L (Edwi
+Goldschmidt, Mr. George B
+Gracie, Col. Archibald IV
+Graham, Miss. Margaret Edith
+Graham, Mr. George Edward
+Graham, Mrs. William Thompson (
+Greenfield, Mr. William Bertram
+Greenfield, Mrs. Leo David (Bla
+Guggenheim, Mr. Benjamin
+Harder, Mr. George Achilles
+Harder, Mrs. George Achilles (D
+Harper, Mr. Henry Sleeper
+Harper, Mrs. Henry Sleeper (Myn
+Harrington, Mr. Charles H
+Harris, Mr. Henry Birkhardt
+Harris, Mrs. Henry Birkhardt (I
+Harrison, Mr. William
+Hassab, Mr. Hammad
+Hawksford, Mr. Walter James
+Hays, Miss. Margaret Bechstein
+Hays, Mr. Charles Melville
+Hays, Mrs. Charles Melville (Cl
+Head, Mr. Christopher
+Hilliard, Mr. Herbert Henry
+Hipkins, Mr. William Edward
+Hippach, Miss. Jean Gertrude
+Hippach, Mrs. Louis Albert (Ida
+Hogeboom, Mrs. John C (Anna And
+Holverson, Mr. Alexander Oskar
+Holverson, Mrs. Alexander Oskar
+Homer, Mr. Harry (Mr E Haven)
+Hoyt, Mr. Frederick Maxfield
+Hoyt, Mr. William Fisher
+Hoyt, Mrs. Frederick Maxfield (
+Icard, Miss. Amelie
+Isham, Miss. Ann Elizabeth
+Ismay, Mr. Joseph Bruce
+Jones, Mr. Charles Cresson
+Julian, Mr. Henry Forbes
+Keeping, Mr. Edwin
+Kent, Mr. Edward Austin
+Kenyon, Mr. Frederick R
+Kenyon, Mrs. Frederick R (Mario
+Kimball, Mr. Edwin Nelson Jr
+Kimball, Mrs. Edwin Nelson Jr (
+Klaber, Mr. Herman
+Kreuchen, Miss. Emilie
+Leader, Dr. Alice (Farnham)
+LeRoy, Miss. Bertha
+Lesurer, Mr. Gustave J
+Lewy, Mr. Ervin G
+Lindeberg-Lind, Mr. Erik Gustaf
+Lindstrom, Mrs. Carl Johan (Sig
+Lines, Miss. Mary Conover
+Lines, Mrs. Ernest H (Elizabeth
+Long, Mr. Milton Clyde
+Longley, Miss. Gretchen Fiske
+Loring, Mr. Joseph Holland
+Lurette, Miss. Elise
+Madill, Miss. Georgette Alexand
+Maguire, Mr. John Edward
+Maioni, Miss. Roberta
+Marechal, Mr. Pierre
+Marvin, Mr. Daniel Warner
+Marvin, Mrs. Daniel Warner (Mar
+Mayne, Mlle. Berthe Antonine (
+McCaffry, Mr. Thomas Francis
+McCarthy, Mr. Timothy J
+McGough, Mr. James Robert
+Meyer, Mr. Edgar Joseph
+Meyer, Mrs. Edgar Joseph (Leila
+Millet, Mr. Francis Davis
+Minahan, Dr. William Edward
+Minahan, Miss. Daisy E
+Minahan, Mrs. William Edward (L
+Mock, Mr. Philipp Edmund
+Molson, Mr. Harry Markland
+Moore, Mr. Clarence Bloomfield
+Natsch, Mr. Charles H
+Newell, Miss. Madeleine
+Newell, Miss. Marjorie
+Newell, Mr. Arthur Webster
+Newsom, Miss. Helen Monypeny
+Nicholson, Mr. Arthur Ernest
+Oliva y Ocana, Dona. Fermina
+Omont, Mr. Alfred Fernand
+Ostby, Miss. Helene Ragnhild
+Ostby, Mr. Engelhart Cornelius
+Ovies y Rodriguez, Mr. Servando
+Parr, Mr. William Henry Marsh
+Partner, Mr. Austen
+Payne, Mr. Vivian Ponsonby
+Pears, Mr. Thomas Clinton
+Pears, Mrs. Thomas (Edith Wearn
+Penasco y Castellana, Mr. Victo
+Penasco y Castellana, Mrs. Vict
+Perreault, Miss. Anne
+Peuchen, Major. Arthur Godfrey
+Porter, Mr. Walter Chamberlain
+Potter, Mrs. Thomas Jr (Lily Al
+Reuchlin, Jonkheer. John George
+Rheims, Mr. George Alexander Lu
+Ringhini, Mr. Sante
+Robbins, Mr. Victor
+Robert, Mrs. Edward Scott (Elis
+Roebling, Mr. Washington August
+Romaine, Mr. Charles Hallace (
+Rood, Mr. Hugh Roscoe
+Rosenbaum, Miss. Edith Louise
+Rosenshine, Mr. George (Mr Geo
+Ross, Mr. John Hugo
+Rothes, the Countess. of (Lucy
+Rothschild, Mr. Martin
+Rothschild, Mrs. Martin (Elizab
+Rowe, Mr. Alfred G
+Ryerson, Master. John Borie
+Ryerson, Miss. Emily Borie
+Ryerson, Miss. Susan Parker Su
+Ryerson, Mr. Arthur Larned
+Ryerson, Mrs. Arthur Larned (Em
+Saalfeld, Mr. Adolphe
+Sagesser, Mlle. Emma
+Salomon, Mr. Abraham L
+Schabert, Mrs. Paul (Emma Mock)
+Serepeca, Miss. Augusta
+Seward, Mr. Frederic Kimber
+Shutes, Miss. Elizabeth W
+Silverthorne, Mr. Spencer Victo
+Silvey, Mr. William Baird
+Silvey, Mrs. William Baird (Ali
+Simonius-Blumer, Col. Oberst Al
+Sloper, Mr. William Thompson
+Smart, Mr. John Montgomery
+Smith, Mr. James Clinch
+Smith, Mr. Lucien Philip
+Smith, Mr. Richard William
+Smith, Mrs. Lucien Philip (Mary
+Snyder, Mr. John Pillsbury
+Snyder, Mrs. John Pillsbury (Ne
+Spedden, Master. Robert Douglas
+Spedden, Mr. Frederic Oakley
+Spedden, Mrs. Frederic Oakley (
+Spencer, Mr. William Augustus
+Spencer, Mrs. William Augustus
+Stahelin-Maeglin, Dr. Max
+Stead, Mr. William Thomas
+Stengel, Mr. Charles Emil Henry
+Stengel, Mrs. Charles Emil Henr
+Stephenson, Mrs. Walter Bertram
+Stewart, Mr. Albert A
+Stone, Mrs. George Nelson (Mart
+Straus, Mr. Isidor
+Straus, Mrs. Isidor (Rosalie Id
+Sutton, Mr. Frederick
+Swift, Mrs. Frederick Joel (Mar
+Taussig, Miss. Ruth
+Taussig, Mr. Emil
+Taussig, Mrs. Emil (Tillie Mand
+Taylor, Mr. Elmer Zebley
+Taylor, Mrs. Elmer Zebley (Juli
+Thayer, Mr. John Borland
+Thayer, Mr. John Borland Jr
+Thayer, Mrs. John Borland (Mari
+Thorne, Mrs. Gertrude Maybelle
+Tucker, Mr. Gilbert Milligan Jr
+Uruchurtu, Don. Manuel E
+Van der hoef, Mr. Wyckoff
+Walker, Mr. William Anderson
+Ward, Miss. Anna
+Warren, Mr. Frank Manley
+Warren, Mrs. Frank Manley (Anna
+Weir, Col. John
+White, Mr. Percival Wayland
+White, Mr. Richard Frasar
+White, Mrs. John Stuart (Ella H
+Wick, Miss. Mary Natalie
+Wick, Mr. George Dennick
+Wick, Mrs. George Dennick (Mary
+Widener, Mr. George Dunton
+Widener, Mr. Harry Elkins
+Widener, Mrs. George Dunton (El
+Willard, Miss. Constance
+Williams, Mr. Charles Duane
+Williams, Mr. Richard Norris II
+Williams-Lambert, Mr. Fletcher
+Wilson, Miss. Helen Alice
+Woolner, Mr. Hugh
+Wright, Mr. George
+Young, Miss. Marie Grice
+Abelson, Mr. Samuel
+Abelson, Mrs. Samuel (Hannah Wi
+Aldworth, Mr. Charles Augustus
+Andrew, Mr. Edgardo Samuel
+Andrew, Mr. Frank Thomas
+Angle, Mr. William A
+Angle, Mrs. William A (Florence
+Ashby, Mr. John
+Bailey, Mr. Percy Andrew
+Baimbrigge, Mr. Charles Robert
+Ball, Mrs. (Ada E Hall)
+Banfield, Mr. Frederick James
+Bateman, Rev. Robert James
+Beane, Mr. Edward
+Beane, Mrs. Edward (Ethel Clark
+Beauchamp, Mr. Henry James
+Becker, Master. Richard F
+Becker, Miss. Marion Louise
+Becker, Miss. Ruth Elizabeth
+Becker, Mrs. Allen Oliver (Nell
+Beesley, Mr. Lawrence
+Bentham, Miss. Lilian W
+Berriman, Mr. William John
+Botsford, Mr. William Hull
+Bowenur, Mr. Solomon
+Bracken, Mr. James H
+Brown, Miss. Amelia Mildred
+Brown, Miss. Edith Eileen
+Brown, Mr. Thomas William Solom
+Brown, Mrs. Thomas William Solo
+Bryhl, Miss. Dagmar Jenny Ingeb
+Bryhl, Mr. Kurt Arnold Gottfrid
+Buss, Miss. Kate
+Butler, Mr. Reginald Fenton
+Byles, Rev. Thomas Roussel Davi
+Bystrom, Mrs. (Karolina)
+Caldwell, Master. Alden Gates
+Caldwell, Mr. Albert Francis
+Caldwell, Mrs. Albert Francis (
+Cameron, Miss. Clear Annie
+Campbell, Mr. William
+Carbines, Mr. William
+Carter, Mrs. Ernest Courtenay (
+Carter, Rev. Ernest Courtenay
+Chapman, Mr. Charles Henry
+Chapman, Mr. John Henry
+Chapman, Mrs. John Henry (Sara
+Christy, Miss. Julie Rachel
+Christy, Mrs. (Alice Frances)
+Clarke, Mr. Charles Valentine
+Clarke, Mrs. Charles V (Ada Mar
+Coleridge, Mr. Reginald Charles
+Collander, Mr. Erik Gustaf
+Collett, Mr. Sidney C Stuart
+Collyer, Miss. Marjorie Lottie
+Collyer, Mr. Harvey
+Collyer, Mrs. Harvey (Charlotte
+Cook, Mrs. (Selena Rogers)
+Corbett, Mrs. Walter H (Irene C
+Corey, Mrs. Percy C (Mary Phyll
+Cotterill, Mr. Henry Harry
+Cunningham, Mr. Alfred Fleming
+Davies, Master. John Morgan Jr
+Davies, Mr. Charles Henry
+Davies, Mrs. John Morgan (Eliza
+Davis, Miss. Mary
+de Brito, Mr. Jose Joaquim
+Deacon, Mr. Percy William
+del Carlo, Mr. Sebastiano
+del Carlo, Mrs. Sebastiano (Arg
+Denbury, Mr. Herbert
+Dibden, Mr. William
+Doling, Miss. Elsie
+Doling, Mrs. John T (Ada Julia
+Downton, Mr. William James
+Drew, Master. Marshall Brines
+Drew, Mr. James Vivian
+Drew, Mrs. James Vivian (Lulu T
+Duran y More, Miss. Asuncion
+Duran y More, Miss. Florentina
+Eitemiller, Mr. George Floyd
+Enander, Mr. Ingvar
+Fahlstrom, Mr. Arne Jonas
+Faunthorpe, Mr. Harry
+Faunthorpe, Mrs. Lizzie (Elizab
+Fillbrook, Mr. Joseph Charles
+Fox, Mr. Stanley Hubert
+Frost, Mr. Anthony Wood Archie
+Funk, Miss. Annie Clemmer
+Fynney, Mr. Joseph J
+Gale, Mr. Harry
+Gale, Mr. Shadrach
+Garside, Miss. Ethel
+Gaskell, Mr. Alfred
+Gavey, Mr. Lawrence
+Gilbert, Mr. William
+Giles, Mr. Edgar
+Giles, Mr. Frederick Edward
+Giles, Mr. Ralph
+Gill, Mr. John William
+Gillespie, Mr. William Henry
+Givard, Mr. Hans Kristensen
+Greenberg, Mr. Samuel
+Hale, Mr. Reginald
+Hamalainen, Master. Viljo
+Hamalainen, Mrs. William (Anna)
+Harbeck, Mr. William H
+Harper, Miss. Annie Jessie Nin
+Harper, Rev. John
+Harris, Mr. George
+Harris, Mr. Walter
+Hart, Miss. Eva Miriam
+Hart, Mr. Benjamin
+Hart, Mrs. Benjamin (Esther Ada
+Herman, Miss. Alice
+Herman, Miss. Kate
+Herman, Mr. Samuel
+Herman, Mrs. Samuel (Jane Laver
+Hewlett, Mrs. (Mary D Kingcome)
+Hickman, Mr. Leonard Mark
+Hickman, Mr. Lewis
+Hickman, Mr. Stanley George
+Hiltunen, Miss. Marta
+Hocking, Miss. Ellen Nellie
+Hocking, Mr. Richard George
+Hocking, Mr. Samuel James Metca
+Hocking, Mrs. Elizabeth (Eliza
+Hodges, Mr. Henry Price
+Hold, Mr. Stephen
+Hold, Mrs. Stephen (Annie Marga
+Hood, Mr. Ambrose Jr
+Hosono, Mr. Masabumi
+Howard, Mr. Benjamin
+Howard, Mrs. Benjamin (Ellen Tr
+Hunt, Mr. George Henry
+Ilett, Miss. Bertha
+Jacobsohn, Mr. Sidney Samuel
+Jacobsohn, Mrs. Sidney Samuel (
+Jarvis, Mr. John Denzil
+Jefferys, Mr. Clifford Thomas
+Jefferys, Mr. Ernest Wilfred
+Jenkin, Mr. Stephen Curnow
+Jerwan, Mrs. Amin S (Marie Mart
+Kantor, Mr. Sinai
+Kantor, Mrs. Sinai (Miriam Ster
+Karnes, Mrs. J Frank (Claire Be
+Keane, Miss. Nora A
+Keane, Mr. Daniel
+Kelly, Mrs. Florence Fannie
+Kirkland, Rev. Charles Leonard
+Knight, Mr. Robert J
+Kvillner, Mr. Johan Henrik Joha
+Lahtinen, Mrs. William (Anna Sy
+Lahtinen, Rev. William
+Lamb, Mr. John Joseph
+Laroche, Miss. Louise
+Laroche, Miss. Simonne Marie An
+Laroche, Mr. Joseph Philippe Le
+Laroche, Mrs. Joseph (Juliette
+Lehmann, Miss. Bertha
+Leitch, Miss. Jessie Wills
+Lemore, Mrs. (Amelia Milley)
+Levy, Mr. Rene Jacques
+Leyson, Mr. Robert William Norm
+Lingane, Mr. John
+Louch, Mr. Charles Alexander
+Louch, Mrs. Charles Alexander (
+Mack, Mrs. (Mary)
+Malachard, Mr. Noel
+Mallet, Master. Andre
+Mallet, Mr. Albert
+Mallet, Mrs. Albert (Antoinette
+Mangiavacchi, Mr. Serafino Emil
+Matthews, Mr. William John
+Maybery, Mr. Frank Hubert
+McCrae, Mr. Arthur Gordon
+McCrie, Mr. James Matthew
+McKane, Mr. Peter David
+Mellinger, Miss. Madeleine Viol
+Mellinger, Mrs. (Elizabeth Anne
+Mellors, Mr. William John
+Meyer, Mr. August
+Milling, Mr. Jacob Christian
+Mitchell, Mr. Henry Michael
+Montvila, Rev. Juozas
+Moraweck, Dr. Ernest
+Morley, Mr. Henry Samuel (Mr H
+Mudd, Mr. Thomas Charles
+Myles, Mr. Thomas Francis
+Nasser, Mr. Nicholas
+Nasser, Mrs. Nicholas (Adele Ac
+Navratil, Master. Edmond Roger
+Navratil, Master. Michel M
+Navratil, Mr. Michel (Louis M
+Nesson, Mr. Israel
+Nicholls, Mr. Joseph Charles
+Norman, Mr. Robert Douglas
+Nourney, Mr. Alfred (Baron von
+Nye, Mrs. (Elizabeth Ramell)
+Otter, Mr. Richard
+Oxenham, Mr. Percy Thomas
+Padro y Manent, Mr. Julian
+Pain, Dr. Alfred
+Pallas y Castello, Mr. Emilio
+Parker, Mr. Clifford Richard
+Parkes, Mr. Francis Frank
+Parrish, Mrs. (Lutie Davis)
+Pengelly, Mr. Frederick William
+Pernot, Mr. Rene
+Peruschitz, Rev. Joseph Maria
+Phillips, Miss. Alice Frances L
+Phillips, Miss. Kate Florence (
+Phillips, Mr. Escott Robert
+Pinsky, Mrs. (Rosa)
+Ponesell, Mr. Martin
+Portaluppi, Mr. Emilio Ilario G
+Pulbaum, Mr. Franz
+Quick, Miss. Phyllis May
+Quick, Miss. Winifred Vera
+Quick, Mrs. Frederick Charles (
+Reeves, Mr. David
+Renouf, Mr. Peter Henry
+Renouf, Mrs. Peter Henry (Lilli
+Reynaldo, Ms. Encarnacion
+Richard, Mr. Emile
+Richards, Master. George Sibley
+Richards, Master. William Rowe
+Richards, Mrs. Sidney (Emily Ho
+Ridsdale, Miss. Lucy
+Rogers, Mr. Reginald Harry
+Rugg, Miss. Emily
+Schmidt, Mr. August
+Sedgwick, Mr. Charles Frederick
+Sharp, Mr. Percival James R
+Shelley, Mrs. William (Imanita
+Silven, Miss. Lyyli Karoliina
+Sincock, Miss. Maude
+Sinkkonen, Miss. Anna
+Sjostedt, Mr. Ernst Adolf
+Slayter, Miss. Hilda Mary
+Slemen, Mr. Richard James
+Smith, Miss. Marion Elsie
+Sobey, Mr. Samuel James Hayden
+Stanton, Mr. Samuel Ward
+Stokes, Mr. Philip Joseph
+Swane, Mr. George
+Sweet, Mr. George Frederick
+Toomey, Miss. Ellen
+Troupiansky, Mr. Moses Aaron
+Trout, Mrs. William H (Jessie L
+Troutt, Miss. Edwina Celia Win
+Turpin, Mr. William John Robert
+Turpin, Mrs. William John Rober
+Veal, Mr. James
+Walcroft, Miss. Nellie
+Ware, Mr. John James
+Ware, Mr. William Jeffery
+Ware, Mrs. John James (Florence
+Watson, Mr. Ennis Hastings
+Watt, Miss. Bertha J
+Watt, Mrs. James (Elizabeth Be
+Webber, Miss. Susan
+Weisz, Mr. Leopold
+Weisz, Mrs. Leopold (Mathilde F
+Wells, Master. Ralph Lester
+Wells, Miss. Joan
+Wells, Mrs. Arthur Henry (Addi
+West, Miss. Barbara J
+West, Miss. Constance Mirium
+West, Mr. Edwy Arthur
+West, Mrs. Edwy Arthur (Ada Mar
+Wheadon, Mr. Edward H
+Wheeler, Mr. Edwin Frederick
+Wilhelms, Mr. Charles
+Williams, Mr. Charles Eugene
+Wright, Miss. Marion
+Yrois, Miss. Henriette (Mrs Ha
+Abbing, Mr. Anthony
+Abbott, Master. Eugene Joseph
+Abbott, Mr. Rossmore Edward
+Abbott, Mrs. Stanton (Rosa Hunt
+Abelseth, Miss. Karen Marie
+Abelseth, Mr. Olaus Jorgensen
+Abrahamsson, Mr. Abraham August
+Abrahim, Mrs. Joseph (Sophie Ha
+Adahl, Mr. Mauritz Nils Martin
+Adams, Mr. John
+Ahlin, Mrs. Johan (Johanna Pers
+Aks, Master. Philip Frank
+Aks, Mrs. Sam (Leah Rosen)
+Albimona, Mr. Nassef Cassem
+Alexander, Mr. William
+Alhomaki, Mr. Ilmari Rudolf
+Ali, Mr. Ahmed
+Ali, Mr. William
+Allen, Mr. William Henry
+Allum, Mr. Owen George
+Andersen, Mr. Albert Karvin
+Andersen-Jensen, Miss. Carla Ch
+Andersson, Master. Sigvard Hara
+Andersson, Miss. Ebba Iris Alfr
+Andersson, Miss. Ellis Anna Mar
+Andersson, Miss. Erna Alexandra
+Andersson, Miss. Ida Augusta Ma
+Andersson, Miss. Ingeborg Const
+Andersson, Miss. Sigrid Elisabe
+Andersson, Mr. Anders Johan
+Andersson, Mr. August Edvard (
+Andersson, Mr. Johan Samuel
+Andersson, Mrs. Anders Johan (A
+Andreasson, Mr. Paul Edvin
+Angheloff, Mr. Minko
+Arnold-Franchi, Mr. Josef
+Arnold-Franchi, Mrs. Josef (Jos
+Aronsson, Mr. Ernst Axel Algot
+Asim, Mr. Adola
+Asplund, Master. Carl Edgar
+Asplund, Master. Clarence Gusta
+Asplund, Master. Edvin Rojj Fel
+Asplund, Master. Filip Oscar
+Asplund, Miss. Lillian Gertrud
+Asplund, Mr. Carl Oscar Vilhelm
+Asplund, Mr. Johan Charles
+Asplund, Mrs. Carl Oscar (Selma
+Assaf Khalil, Mrs. Mariana (Mi
+Assaf, Mr. Gerios
+Assam, Mr. Ali
+Attalah, Miss. Malake
+Attalah, Mr. Sleiman
+Augustsson, Mr. Albert
+Ayoub, Miss. Banoura
+Baccos, Mr. Raffull
+Backstrom, Mr. Karl Alfred
+Backstrom, Mrs. Karl Alfred (Ma
+Baclini, Miss. Eugenie
+Baclini, Miss. Helene Barbara
+Baclini, Miss. Marie Catherine
+Baclini, Mrs. Solomon (Latifa Q
+Badman, Miss. Emily Louisa
+Badt, Mr. Mohamed
+Balkic, Mr. Cerin
+Barah, Mr. Hanna Assi
+Barbara, Miss. Saiide
+Barbara, Mrs. (Catherine David)
+Barry, Miss. Julia
+Barton, Mr. David John
+Beavan, Mr. William Thomas
+Bengtsson, Mr. John Viktor
+Berglund, Mr. Karl Ivar Sven
+Betros, Master. Seman
+Betros, Mr. Tannous
+Bing, Mr. Lee
+Birkeland, Mr. Hans Martin Mons
+Bjorklund, Mr. Ernst Herbert
+Bostandyeff, Mr. Guentcho
+Boulos, Master. Akar
+Boulos, Miss. Nourelain
+Boulos, Mr. Hanna
+Boulos, Mrs. Joseph (Sultana)
+Bourke, Miss. Mary
+Bourke, Mr. John
+Bourke, Mrs. John (Catherine)
+Bowen, Mr. David John Dai
+Bradley, Miss. Bridget Delia
+Braf, Miss. Elin Ester Maria
+Braund, Mr. Lewis Richard
+Braund, Mr. Owen Harris
+Brobeck, Mr. Karl Rudolf
+Brocklebank, Mr. William Alfred
+Buckley, Miss. Katherine
+Buckley, Mr. Daniel
+Burke, Mr. Jeremiah
+Burns, Miss. Mary Delia
+Cacic, Miss. Manda
+Cacic, Miss. Marija
+Cacic, Mr. Jego Grga
+Cacic, Mr. Luka
+Calic, Mr. Jovo
+Calic, Mr. Petar
+Canavan, Miss. Mary
+Canavan, Mr. Patrick
+Cann, Mr. Ernest Charles
+Caram, Mr. Joseph
+Caram, Mrs. Joseph (Maria Elias
+Carlsson, Mr. August Sigfrid
+Carlsson, Mr. Carl Robert
+Carr, Miss. Helen Ellen
+Carr, Miss. Jeannie
+Carver, Mr. Alfred John
+Celotti, Mr. Francesco
+Charters, Mr. David
+Chip, Mr. Chang
+Christmann, Mr. Emil
+Chronopoulos, Mr. Apostolos
+Chronopoulos, Mr. Demetrios
+Coelho, Mr. Domingos Fernandeo
+Cohen, Mr. Gurshon Gus
+Colbert, Mr. Patrick
+Coleff, Mr. Peju
+Coleff, Mr. Satio
+Conlon, Mr. Thomas Henry
+Connaghton, Mr. Michael
+Connolly, Miss. Kate (A)
+Connolly, Miss. Kate (B)
+Connors, Mr. Patrick
+Cook, Mr. Jacob
+Cor, Mr. Bartol
+Cor, Mr. Ivan
+Cor, Mr. Liudevit
+Corn, Mr. Harry
+Coutts, Master. Eden Leslie Ne
+Coutts, Master. William Loch W
+Coutts, Mrs. William (Winnie M
+Coxon, Mr. Daniel
+Crease, Mr. Ernest James
+Cribb, Miss. Laura Alice
+Cribb, Mr. John Hatfield
+Culumovic, Mr. Jeso
+Daher, Mr. Shedid
+Dahl, Mr. Karl Edwart
+Dahlberg, Miss. Gerda Ulrika
+Dakic, Mr. Branko
+Daly, Miss. Margaret Marcella 
+Daly, Mr. Eugene Patrick
+Danbom, Master. Gilbert Sigvard
+Danbom, Mr. Ernst Gilbert
+Danbom, Mrs. Ernst Gilbert (Ann
+Danoff, Mr. Yoto
+Dantcheff, Mr. Ristiu
+Davies, Mr. Alfred J
+Davies, Mr. Evan
+Davies, Mr. John Samuel
+Davies, Mr. Joseph
+Davison, Mr. Thomas Henry
+Davison, Mrs. Thomas Henry (Mar
+de Messemaeker, Mr. Guillaume J
+de Messemaeker, Mrs. Guillaume
+de Mulder, Mr. Theodore
+de Pelsmaeker, Mr. Alfons
+Dean, Master. Bertram Vere
+Dean, Miss. Elizabeth Gladys M
+Dean, Mr. Bertram Frank
+Dean, Mrs. Bertram (Eva Georget
+Delalic, Mr. Redjo
+Demetri, Mr. Marinko
+Denkoff, Mr. Mitto
+Dennis, Mr. Samuel
+Dennis, Mr. William
+Devaney, Miss. Margaret Delia
+Dika, Mr. Mirko
+Dimic, Mr. Jovan
+Dintcheff, Mr. Valtcho
+Doharr, Mr. Tannous
+Dooley, Mr. Patrick
+Dorking, Mr. Edward Arthur
+Dowdell, Miss. Elizabeth
+Doyle, Miss. Elizabeth
+Drapkin, Miss. Jennie
+Drazenoic, Mr. Jozef
+Duane, Mr. Frank
+Duquemin, Mr. Joseph
+Dyker, Mr. Adolf Fredrik
+Dyker, Mrs. Adolf Fredrik (Anna
+Edvardsson, Mr. Gustaf Hjalmar
+Eklund, Mr. Hans Linus
+Ekstrom, Mr. Johan
+Elias, Mr. Dibo
+Elias, Mr. Joseph
+Elias, Mr. Joseph Jr
+Elias, Mr. Tannous
+Elsbury, Mr. William James
+Emanuel, Miss. Virginia Ethel
+Emir, Mr. Farred Chehab
+Everett, Mr. Thomas James
+Farrell, Mr. James
+Finoli, Mr. Luigi
+Fischer, Mr. Eberhard Thelander
+Fleming, Miss. Honora
+Flynn, Mr. James
+Flynn, Mr. John
+Foley, Mr. Joseph
+Foley, Mr. William
+Foo, Mr. Choong
+Ford, Miss. Doolina Margaret D
+Ford, Miss. Robina Maggie Ruby
+Ford, Mr. Arthur
+Ford, Mr. Edward Watson
+Ford, Mr. William Neal
+Ford, Mrs. Edward (Margaret Ann
+Fox, Mr. Patrick
+Franklin, Mr. Charles (Charles
+Gallagher, Mr. Martin
+Garfirth, Mr. John
+Gheorgheff, Mr. Stanio
+Gilinski, Mr. Eliezer
+Gilnagh, Miss. Katherine Katie
+Glynn, Miss. Mary Agatha
+Goldsmith, Master. Frank John W
+Goldsmith, Mr. Frank John
+Goldsmith, Mr. Nathan
+Goldsmith, Mrs. Frank John (Emi
+Goncalves, Mr. Manuel Estanslas
+Goodwin, Master. Harold Victor
+Goodwin, Master. Sidney Leonard
+Goodwin, Master. William Freder
+Goodwin, Miss. Jessie Allis
+Goodwin, Miss. Lillian Amy
+Goodwin, Mr. Charles Edward
+Goodwin, Mr. Charles Frederick
+Goodwin, Mrs. Frederick (August
+Green, Mr. George Henry
+Gronnestad, Mr. Daniel Danielse
+Guest, Mr. Robert
+Gustafsson, Mr. Alfred Ossian
+Gustafsson, Mr. Anders Vilhelm
+Gustafsson, Mr. Johan Birger
+Gustafsson, Mr. Karl Gideon
+Haas, Miss. Aloisia
+Hagardon, Miss. Kate
+Hagland, Mr. Ingvald Olai Olsen
+Hagland, Mr. Konrad Mathias Rei
+Hakkarainen, Mr. Pekka Pietari
+Hakkarainen, Mrs. Pekka Pietari
+Hampe, Mr. Leon
+Hanna, Mr. Mansour
+Hansen, Mr. Claus Peter
+Hansen, Mr. Henrik Juul
+Hansen, Mr. Henry Damsgaard
+Hansen, Mrs. Claus Peter (Jenni
+Harknett, Miss. Alice Phoebe
+Harmer, Mr. Abraham (David Lish
+Hart, Mr. Henry
+Hassan, Mr. Houssein G N
+Healy, Miss. Hanora Nora
+Hedman, Mr. Oskar Arvid
+Hee, Mr. Ling
+Hegarty, Miss. Hanora Nora
+Heikkinen, Miss. Laina
+Heininen, Miss. Wendla Maria
+Hellstrom, Miss. Hilda Maria
+Hendekovic, Mr. Ignjac
+Henriksson, Miss. Jenny Lovisa
+Henry, Miss. Delia
+Hirvonen, Miss. Hildur E
+Hirvonen, Mrs. Alexander (Helga
+Holm, Mr. John Fredrik Alexande
+Holthen, Mr. Johan Martin
+Honkanen, Miss. Eliina
+Horgan, Mr. John
+Howard, Miss. May Elizabeth
+Humblen, Mr. Adolf Mathias Nico
+Hyman, Mr. Abraham
+Ibrahim Shawah, Mr. Yousseff
+Ilieff, Mr. Ylio
+Ilmakangas, Miss. Ida Livija
+Ilmakangas, Miss. Pieta Sofia
+Ivanoff, Mr. Kanio
+Jalsevac, Mr. Ivan
+Jansson, Mr. Carl Olof
+Jardin, Mr. Jose Neto
+Jensen, Mr. Hans Peder
+Jensen, Mr. Niels Peder
+Jensen, Mr. Svend Lauritz
+Jermyn, Miss. Annie
+Johannesen-Bratthammer, Mr. Ber
+Johanson, Mr. Jakob Alfred
+Johansson Palmquist, Mr. Oskar
+Johansson, Mr. Erik
+Johansson, Mr. Gustaf Joel
+Johansson, Mr. Karl Johan
+Johansson, Mr. Nils
+Johnson, Master. Harold Theodor
+Johnson, Miss. Eleanor Ileen
+Johnson, Mr. Alfred
+Johnson, Mr. Malkolm Joackim
+Johnson, Mr. William Cahoone Jr
+Johnson, Mrs. Oscar W (Elisabet
+Johnston, Master. William Arthu
+Johnston, Miss. Catherine Helen
+Johnston, Mr. Andrew G
+Johnston, Mrs. Andrew G (Elizab
+Jonkoff, Mr. Lalio
+Jonsson, Mr. Carl
+Jonsson, Mr. Nils Hilding
+Jussila, Miss. Katriina
+Jussila, Miss. Mari Aina
+Jussila, Mr. Eiriik
+Kallio, Mr. Nikolai Erland
+Kalvik, Mr. Johannes Halvorsen
+Karaic, Mr. Milan
+Karlsson, Mr. Einar Gervasius
+Karlsson, Mr. Julius Konrad Eug
+Karlsson, Mr. Nils August
+Karun, Miss. Manca
+Karun, Mr. Franz
+Kassem, Mr. Fared
+Katavelas, Mr. Vassilios (Cata
+Keane, Mr. Andrew Andy
+Keefe, Mr. Arthur
+Kelly, Miss. Anna Katherine An
+Kelly, Miss. Mary
+Kelly, Mr. James (A)
+Kelly, Mr. James (B)
+Kennedy, Mr. John
+Khalil, Mr. Betros
+Khalil, Mrs. Betros (Zahie Mar
+Kiernan, Mr. John
+Kiernan, Mr. Philip
+Kilgannon, Mr. Thomas J
+Kink, Miss. Maria
+Kink, Mr. Vincenz
+Kink-Heilmann, Miss. Luise Gret
+Kink-Heilmann, Mr. Anton
+Kink-Heilmann, Mrs. Anton (Luis
+Klasen, Miss. Gertrud Emilia
+Klasen, Mr. Klas Albin
+Klasen, Mrs. (Hulda Kristina Eu
+Kraeff, Mr. Theodor
+Krekorian, Mr. Neshan
+Lahoud, Mr. Sarkis
+Laitinen, Miss. Kristina Sofia
+Laleff, Mr. Kristo
+Lam, Mr. Ali
+Lam, Mr. Len
+Landergren, Miss. Aurora Adelia
+Lane, Mr. Patrick
+Lang, Mr. Fang
+Larsson, Mr. August Viktor
+Larsson, Mr. Bengt Edvin
+Larsson-Rondberg, Mr. Edvard A
+Leeni, Mr. Fahim (Philip Zenni
+Lefebre, Master. Henry Forbes
+Lefebre, Miss. Ida
+Lefebre, Miss. Jeannie
+Lefebre, Miss. Mathilde
+Lefebre, Mrs. Frank (Frances)
+Leinonen, Mr. Antti Gustaf
+Lemberopolous, Mr. Peter L
+Lennon, Miss. Mary
+Lennon, Mr. Denis
+Leonard, Mr. Lionel
+Lester, Mr. James
+Lievens, Mr. Rene Aime
+Lindahl, Miss. Agda Thorilda Vi
+Lindblom, Miss. Augusta Charlot
+Lindell, Mr. Edvard Bengtsson
+Lindell, Mrs. Edvard Bengtsson
+Lindqvist, Mr. Eino William
+Linehan, Mr. Michael
+Ling, Mr. Lee
+Lithman, Mr. Simon
+Lobb, Mr. William Arthur
+Lobb, Mrs. William Arthur (Cord
+Lockyer, Mr. Edward
+Lovell, Mr. John Hall (Henry)
+Lulic, Mr. Nikola
+Lundahl, Mr. Johan Svensson
+Lundin, Miss. Olga Elida
+Lundstrom, Mr. Thure Edvin
+Lyntakoff, Mr. Stanko
+MacKay, Mr. George William
+Madigan, Miss. Margaret Maggie
+Madsen, Mr. Fridtjof Arne
+Maenpaa, Mr. Matti Alexanteri
+Mahon, Miss. Bridget Delia
+Mahon, Mr. John
+Maisner, Mr. Simon
+Makinen, Mr. Kalle Edvard
+Mamee, Mr. Hanna
+Mangan, Miss. Mary
+Mannion, Miss. Margareth
+Mardirosian, Mr. Sarkis
+Markoff, Mr. Marin
+Markun, Mr. Johann
+Masselmani, Mrs. Fatima
+Matinoff, Mr. Nicola
+McCarthy, Miss. Catherine Kati
+McCormack, Mr. Thomas Joseph
+McCoy, Miss. Agnes
+McCoy, Miss. Alicia
+McCoy, Mr. Bernard
+McDermott, Miss. Brigdet Delia
+McEvoy, Mr. Michael
+McGovern, Miss. Mary
+McGowan, Miss. Anna Annie
+McGowan, Miss. Katherine
+McMahon, Mr. Martin
+McNamee, Mr. Neal
+McNamee, Mrs. Neal (Eileen O'Le
+McNeill, Miss. Bridget
+Meanwell, Miss. (Marion Ogden)
+Meek, Mrs. Thomas (Annie Louise
+Meo, Mr. Alfonzo
+Mernagh, Mr. Robert
+Midtsjo, Mr. Karl Albert
+Miles, Mr. Frank
+Mineff, Mr. Ivan
+Minkoff, Mr. Lazar
+Mionoff, Mr. Stoytcho
+Mitkoff, Mr. Mito
+Mockler, Miss. Helen Mary Elli
+Moen, Mr. Sigurd Hansen
+Moor, Master. Meier
+Moor, Mrs. (Beila)
+Moore, Mr. Leonard Charles
+Moran, Miss. Bertha
+Moran, Mr. Daniel J
+Moran, Mr. James
+Morley, Mr. William
+Morrow, Mr. Thomas Rowan
+Moss, Mr. Albert Johan
+Moubarek, Master. Gerios
+Moubarek, Master. Halim Gonios
+Moubarek, Mrs. George (Omine A
+Moussa, Mrs. (Mantoura Boulos)
+Moutal, Mr. Rahamin Haim
+Mullens, Miss. Katherine Katie
+Mulvihill, Miss. Bertha E
+Murdlin, Mr. Joseph
+Murphy, Miss. Katherine Kate
+Murphy, Miss. Margaret Jane
+Murphy, Miss. Nora
+Myhrman, Mr. Pehr Fabian Oliver
+Naidenoff, Mr. Penko
+Najib, Miss. Adele Kiamie Jane
+Nakid, Miss. Maria (Mary)
+Nakid, Mr. Sahid
+Nakid, Mrs. Said (Waika Mary
+Nancarrow, Mr. William Henry
+Nankoff, Mr. Minko
+Nasr, Mr. Mustafa
+Naughton, Miss. Hannah
+Nenkoff, Mr. Christo
+Nicola-Yarred, Master. Elias
+Nicola-Yarred, Miss. Jamila
+Nieminen, Miss. Manta Josefina
+Niklasson, Mr. Samuel
+Nilsson, Miss. Berta Olivia
+Nilsson, Miss. Helmina Josefina
+Nilsson, Mr. August Ferdinand
+Nirva, Mr. Iisakki Antino Aijo
+Niskanen, Mr. Juha
+Nosworthy, Mr. Richard Cater
+Novel, Mr. Mansouer
+Nysten, Miss. Anna Sofia
+Nysveen, Mr. Johan Hansen
+O'Brien, Mr. Thomas
+O'Brien, Mr. Timothy
+O'Brien, Mrs. Thomas (Johanna 
+O'Connell, Mr. Patrick D
+O'Connor, Mr. Maurice
+O'Connor, Mr. Patrick
+Odahl, Mr. Nils Martin
+O'Donoghue, Ms. Bridget
+O'Driscoll, Miss. Bridget
+O'Dwyer, Miss. Ellen Nellie
+Ohman, Miss. Velin
+O'Keefe, Mr. Patrick
+O'Leary, Miss. Hanora Norah
+Olsen, Master. Artur Karl
+Olsen, Mr. Henry Margido
+Olsen, Mr. Karl Siegwart Andrea
+Olsen, Mr. Ole Martin
+Olsson, Miss. Elina
+Olsson, Mr. Nils Johan Goransso
+Olsson, Mr. Oscar Wilhelm
+Olsvigen, Mr. Thor Anderson
+Oreskovic, Miss. Jelka
+Oreskovic, Miss. Marija
+Oreskovic, Mr. Luka
+Osen, Mr. Olaf Elon
+Osman, Mrs. Mara
+O'Sullivan, Miss. Bridget Mary
+Palsson, Master. Gosta Leonard
+Palsson, Master. Paul Folke
+Palsson, Miss. Stina Viola
+Palsson, Miss. Torborg Danira
+Palsson, Mrs. Nils (Alma Cornel
+Panula, Master. Eino Viljami
+Panula, Master. Juha Niilo
+Panula, Master. Urho Abraham
+Panula, Mr. Ernesti Arvid
+Panula, Mr. Jaako Arnold
+Panula, Mrs. Juha (Maria Emilia
+Pasic, Mr. Jakob
+Patchett, Mr. George
+Paulner, Mr. Uscher
+Pavlovic, Mr. Stefo
+Peacock, Master. Alfred Edward
+Peacock, Miss. Treasteall
+Peacock, Mrs. Benjamin (Edith N
+Pearce, Mr. Ernest
+Pedersen, Mr. Olaf
+Peduzzi, Mr. Joseph
+Pekoniemi, Mr. Edvard
+Peltomaki, Mr. Nikolai Johannes
+Perkin, Mr. John Henry
+Persson, Mr. Ernst Ulrik
+Peter, Master. Michael J
+Peter, Miss. Anna
+Peter, Mrs. Catherine (Catherin
+Peters, Miss. Katie
+Petersen, Mr. Marius
+Petranec, Miss. Matilda
+Petroff, Mr. Nedelio
+Petroff, Mr. Pastcho (Pentcho
+Petterson, Mr. Johan Emil
+Pettersson, Miss. Ellen Natalia
+Pickard, Mr. Berk (Berk Trembis
+Plotcharsky, Mr. Vasil
+Pokrnic, Mr. Mate
+Pokrnic, Mr. Tome
+Radeff, Mr. Alexander
+Rasmussen, Mrs. (Lena Jacobsen
+Razi, Mr. Raihed
+Reed, Mr. James George
+Rekic, Mr. Tido
+Reynolds, Mr. Harold J
+Rice, Master. Albert
+Rice, Master. Arthur
+Rice, Master. Eric
+Rice, Master. Eugene
+Rice, Master. George Hugh
+Rice, Mrs. William (Margaret No
+Riihivouri, Miss. Susanna Juhan
+Rintamaki, Mr. Matti
+Riordan, Miss. Johanna Hannah
+Risien, Mr. Samuel Beard
+Risien, Mrs. Samuel (Emma)
+Robins, Mr. Alexander A
+Robins, Mrs. Alexander A (Grace
+Rogers, Mr. William John
+Rommetvedt, Mr. Knud Paust
+Rosblom, Miss. Salli Helena
+Rosblom, Mr. Viktor Richard
+Rosblom, Mrs. Viktor (Helena Wi
+Roth, Miss. Sarah A
+Rouse, Mr. Richard Henry
+Rush, Mr. Alfred George John
+Ryan, Mr. Edward
+Ryan, Mr. Patrick
+Saad, Mr. Amin
+Saad, Mr. Khalil
+Saade, Mr. Jean Nassr
+Sadlier, Mr. Matthew
+Sadowitz, Mr. Harry
+Saether, Mr. Simon Sivertsen
+Sage, Master. Thomas Henry
+Sage, Master. William Henry
+Sage, Miss. Ada
+Sage, Miss. Constance Gladys
+Sage, Miss. Dorothy Edith Doll
+Sage, Miss. Stella Anna
+Sage, Mr. Douglas Bullen
+Sage, Mr. Frederick
+Sage, Mr. George John Jr
+Sage, Mr. John George
+Sage, Mrs. John (Annie Bullen)
+Salander, Mr. Karl Johan
+Salkjelsvik, Miss. Anna Kristin
+Salonen, Mr. Johan Werner
+Samaan, Mr. Elias
+Samaan, Mr. Hanna
+Samaan, Mr. Youssef
+Sandstrom, Miss. Beatrice Irene
+Sandstrom, Mrs. Hjalmar (Agnes
+Sandstrom, Miss. Marguerite Rut
+Sap, Mr. Julius
+Saundercock, Mr. William Henry
+Sawyer, Mr. Frederick Charles
+Scanlan, Mr. James
+Sdycoff, Mr. Todor
+Shaughnessy, Mr. Patrick
+Sheerlinck, Mr. Jan Baptist
+Shellard, Mr. Frederick William
+Shine, Miss. Ellen Natalia
+Shorney, Mr. Charles Joseph
+Simmons, Mr. John
+Sirayanian, Mr. Orsen
+Sirota, Mr. Maurice
+Sivic, Mr. Husein
+Sivola, Mr. Antti Wilhelm
+Sjoblom, Miss. Anna Sofia
+Skoog, Master. Harald
+Skoog, Master. Karl Thorsten
+Skoog, Miss. Mabel
+Skoog, Miss. Margit Elizabeth
+Skoog, Mr. Wilhelm
+Skoog, Mrs. William (Anna Bernh
+Slabenoff, Mr. Petco
+Slocovski, Mr. Selman Francis
+Smiljanic, Mr. Mile
+Smith, Mr. Thomas
+Smyth, Miss. Julia
+Soholt, Mr. Peter Andreas Lauri
+Somerton, Mr. Francis William
+Spector, Mr. Woolf
+Spinner, Mr. Henry John
+Staneff, Mr. Ivan
+Stankovic, Mr. Ivan
+Stanley, Miss. Amy Zillah Elsie
+Stanley, Mr. Edward Roland
+Storey, Mr. Thomas
+Stoytcheff, Mr. Ilia
+Strandberg, Miss. Ida Sofia
+Stranden, Mr. Juho
+Strilic, Mr. Ivan
+Strom, Miss. Telma Matilda
+Strom, Mrs. Wilhelm (Elna Matil
+Sunderland, Mr. Victor Francis
+Sundman, Mr. Johan Julian
+Sutehall, Mr. Henry Jr
+Svensson, Mr. Johan
+Svensson, Mr. Johan Cervin
+Svensson, Mr. Olof
+Tenglin, Mr. Gunnar Isidor
+Theobald, Mr. Thomas Leonard
+Thomas, Master. Assad Alexander
+Thomas, Mr. Charles P
+Thomas, Mr. John
+Thomas, Mr. Tannous
+Thomas, Mrs. Alexander (Thamine
+Thomson, Mr. Alexander Morrison
+Thorneycroft, Mr. Percival
+Thorneycroft, Mrs. Percival (Fl
+Tikkanen, Mr. Juho
+Tobin, Mr. Roger
+Todoroff, Mr. Lalio
+Tomlin, Mr. Ernest Portage
+Torber, Mr. Ernst William
+Torfa, Mr. Assad
+Tornquist, Mr. William Henry
+Toufik, Mr. Nakli
+Touma, Master. Georges Youssef
+Touma, Miss. Maria Youssef
+Touma, Mrs. Darwis (Hanne Youss
+Turcin, Mr. Stjepan
+Turja, Miss. Anna Sofia
+Turkula, Mrs. (Hedwig)
+van Billiard, Master. James Wil
+van Billiard, Master. Walter Jo
+van Billiard, Mr. Austin Blyler
+Van Impe, Miss. Catharina
+Van Impe, Mr. Jean Baptiste
+Van Impe, Mrs. Jean Baptiste (R
+van Melkebeke, Mr. Philemon
+Vande Velde, Mr. Johannes Josep
+Vande Walle, Mr. Nestor Cyriel
+Vanden Steen, Mr. Leo Peter
+Vander Cruyssen, Mr. Victor
+Vander Planke, Miss. Augusta Ma
+Vander Planke, Mr. Julius
+Vander Planke, Mr. Leo Edmondus
+Vander Planke, Mrs. Julius (Eme
+Vartanian, Mr. David
+Vendel, Mr. Olof Edvin
+Vestrom, Miss. Hulda Amanda Ado
+Vovk, Mr. Janko
+Waelens, Mr. Achille
+Ware, Mr. Frederick
+Warren, Mr. Charles William
+Webber, Mr. James
+Wenzel, Mr. Linhart
+Whabee, Mrs. George Joseph (Sha
+Widegren, Mr. Carl/Charles Pete
+Wiklund, Mr. Jakob Alfred
+Wiklund, Mr. Karl Johan
+Wilkes, Mrs. James (Ellen Needs
+Willer, Mr. Aaron (Abi Weller
+Willey, Mr. Edward
+Williams, Mr. Howard Hugh Harr
+Williams, Mr. Leslie
+Windelov, Mr. Einar
+Wirz, Mr. Albert
+Wiseman, Mr. Phillippe
+Wittevrongel, Mr. Camille
+Yasbeck, Mr. Antoni
+Yasbeck, Mrs. Antoni (Selini Al
+Youseff, Mr. Gerious
+Yousif, Mr. Wazli
+Yousseff, Mr. Gerious
+Zabour, Miss. Hileni
+Zabour, Miss. Thamine
+Zakarian, Mr. Mapriededer
+Zakarian, Mr. Ortin
+Zimmerman, Mr. Leo

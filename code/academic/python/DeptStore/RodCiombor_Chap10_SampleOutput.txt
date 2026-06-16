@@ -1,0 +1,93 @@
+Items Available for Purchase
+----------------------------
+
+  Choice  Description           Qty          Price
+  ------  -----------           ---          -----
+    1     Retail Item:
+  Description: Jacket
+  Units:       12
+  Price:       $59.95
+    2     Retail Item:
+  Description: Designer Jeans
+  Units:       40
+  Price:       $34.95
+    3     Retail Item:
+  Description: Shirt
+  Units:       20
+  Price:       $24.95
+    4     Retail Item:
+  Description: Breitling Top Time
+  Units:       5
+  Price:       $19900.00
+Enter your choice (0 to check out): 1
+Quantity to purchase: 1
+
+Items Available for Purchase
+----------------------------
+
+  Choice  Description           Qty          Price
+  ------  -----------           ---          -----
+    1     Retail Item:
+  Description: Jacket
+  Units:       11
+  Price:       $59.95
+    2     Retail Item:
+  Description: Designer Jeans
+  Units:       40
+  Price:       $34.95
+    3     Retail Item:
+  Description: Shirt
+  Units:       20
+  Price:       $24.95
+    4     Retail Item:
+  Description: Breitling Top Time
+  Units:       5
+  Price:       $19900.00
+Enter your choice (0 to check out): 3
+Quantity to purchase: 4
+
+Items Available for Purchase
+----------------------------
+
+  Choice  Description           Qty          Price
+  ------  -----------           ---          -----
+    1     Retail Item:
+  Description: Jacket
+  Units:       11
+  Price:       $59.95
+    2     Retail Item:
+  Description: Designer Jeans
+  Units:       40
+  Price:       $34.95
+    3     Retail Item:
+  Description: Shirt
+  Units:       16
+  Price:       $24.95
+    4     Retail Item:
+  Description: Breitling Top Time
+  Units:       5
+  Price:       $19900.00
+Enter your choice (0 to check out): 0
+Checking out....
+
+Shopping Cart
+-------------
+Retail Item:
+  Description: Jacket
+  Units:       1
+  Price:       $59.95
+
+Retail Item:
+  Description: Shirt
+  Units:       4
+  Price:       $24.95
+
+
+Subtotal       $         159.75
+Tax            $          11.98
+Tax Rate                  7.50%
+Total          $         171.73
+
+Check out complete.  Clearing cash register...
+Cash register cleared.
+Thank you for visiting the COD Student Store today!
